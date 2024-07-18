@@ -1,6 +1,6 @@
-### Hello World! 👋
+### *Simplicity is the soul of efficiency.*
 
-This account is mostly for open-source contributions. My personal repositories are hosted on codeberg.
+This account is mainly for open-source contributions. My personal repositories are hosted on codeberg.
 
 ---
 
